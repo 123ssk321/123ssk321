@@ -124,7 +124,7 @@
   </span>
   &nbsp
   <span align='right'>
-    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123ssk321&hide_progress=true&langs_count=6&hide=jupyter%20notebook,tex&theme=tokyonight&layout=compact" alt="Top Langs" /></a>
+    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123ssk321&langs_count=6&hide=jupyter%20notebook,tex&theme=radical&layout=compact" alt="Top Langs" /></a>
   </span>
 </div>
 
