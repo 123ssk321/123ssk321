@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About me <img src="https://imgur.com/Fk2kHq2.gif" height="2" width="1000">
 - 🎓 I'm a: **Computer Scientist** | **Computer Engineer** | **Learner** 
-- 🔥 Interests: **ML/DL** | **Data Science** | **Mobile/Web App Development** | **Trading**
+- 🔥 Interests: **ML/DL** | **Data Science** | **Mobile/Web App Development** | **Finance**
 - 📚 I'm currently writing my thesis about **Explainable Graph Neural Networks**
 - ⚡Fun fact: the water you drank today is the same as the water the dinossaurs drank millions of years ago
 
